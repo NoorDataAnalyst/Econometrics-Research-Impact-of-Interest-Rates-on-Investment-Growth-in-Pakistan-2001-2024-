@@ -22,9 +22,7 @@ The Average Interest Rate has a statistically significant negative effect on Gro
 
 ### Model Specification
 
-\[
-\text{Capital Formation Growth} = \beta_0 + \beta_1 (\text{Average Interest Rate}) + \varepsilon
-\]
+Capital Formation Growth = β₀ + β₁ (Average Interest Rate) + ε
 
 ---
 
@@ -72,9 +70,8 @@ These plots confirmed the assumptions of linear regression were reasonably satis
 
 ### 6.1 Estimated Regression Equation
 
-\[
-\text{Capital Formation Growth} = 16.50 - 1.3125 (\text{Average Interest Rate}) + \varepsilon
-\]
+Capital Formation Growth = 16.50 - 1.3125 (Average Interest Rate) + ε
+
 
 - **Intercept (16.50):** When GCF Growth is 0%, the Average Interest Rate is approximately 16.50% (SE = 4.1774).  
 - **Slope (−1.3125):** For every 1% increase in Average Interest Rate, GCF Growth decreases by 1.3125% (SE = 0.3754).
