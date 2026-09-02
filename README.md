@@ -74,7 +74,7 @@ Capital Formation Growth = 16.50 - 1.3125 (Average Interest Rate) + ε
 
 
 - **Intercept (16.50):** When GCF Growth is 0%, the Average Interest Rate is approximately 16.50% (SE = 4.1774).  
-- **Slope (−1.3125):** For every 1% increase in Average Interest Rate, GCF Growth decreases by 1.3125% (SE = 0.3754).
+- **Slope (−1.3125):** For every 1 percentage increase in Capital Formation Growth, the Average Interest Rate is estimated to decrease by 1.3125 percentage points ($\text{SE} = 0.3754$).
 
 ---
 
