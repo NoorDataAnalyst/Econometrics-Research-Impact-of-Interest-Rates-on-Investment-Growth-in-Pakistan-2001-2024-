@@ -74,7 +74,7 @@ Capital Formation Growth = 16.50 - 1.3125 (Average Interest Rate) + ε
 
 
 - **Intercept (16.50):** When GCF Growth is 0%, the Average Interest Rate is approximately 16.50% (SE = 4.1774).  
-- **Slope (−1.3125):** For every 1 percentage increase in Capital Formation Growth, the Average Interest Rate is estimated to decrease by 1.3125 percentage points ($\text{SE} = 0.3754$).
+- **Slope (−1.3125):** For every 1 percentage point increase in the Average Interest Rate, Gross Capital Formation Growth is estimated to decrease by 1.3125 percentage points ($\text{SE} = 0.3754$).
 
 ---
 
@@ -107,8 +107,8 @@ Capital Formation Growth = 16.50 - 1.3125 (Average Interest Rate) + ε
 
 | Coefficient | Estimate | Standard Error | 95% Confidence Interval | Interpretation |
 |------------|---------|----------------|------------------------|----------------|
-| Intercept (β₀) | 16.50 | 4.1774 | 7.84 – 25.16 | When GCF Growth is 0%, the expected Average Interest Rate lies between 7.84% and 25.16% with 95% confidence. |
-| Slope (β₁) | −1.3125 | 0.3754 | −2.09 – −0.534 |For every 1 percentage point increase in GCF Growth, the Average Interest Rate decreases by 0.534 to 2.09 percentage points with 95% confidence.|
+| Intercept (β₀) | 16.50 | 4.1774 | 7.84 – 25.16 | When Average Interest Rate is 0%, expected baseline GCF Growth lies between 7.84% and 25.16%. |
+| Slope (β₁) | −1.3125 | 0.3754 | −2.09 – −0.534 |For every 1 percentage point increase in Average Interest Rate, GCF Growth decreases by between 0.534 and 2.09 percentage points.|
  
 
 
